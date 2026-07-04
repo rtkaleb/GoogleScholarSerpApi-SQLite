@@ -1,4 +1,4 @@
-# Google Scholar (SerpApi) → SQLite Integration
+# Google Scholar (SerpApi) → SQLite Integration (Challenge 3)
 A simple Java MVC application that runs **API consumption + database storage (2 researchers × 3 articles each)**, verification, basic error handling, and delivery.
 The project demonstrates a clean separation of concerns with **Model–View–Controller** architecture.
 
